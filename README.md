@@ -16,7 +16,14 @@
 
 ## 如何使用
 
-配置好数据库地址，使用 Tomcat 部署此后端，然后配合[前端](https://github.com/APeng215/leave-management-system-frontend)使用
+1. 配置[数据库数据表](#数据库表结构)
+2. 配置数据库地址
+3. 使用 Tomcat 部署此后端
+4. 配合[前端](https://github.com/APeng215/leave-management-system-frontend)使用
+
+## 数据库表结构
+
+![databaseTablesDesign](./README_resource/databaseTablesDesign.png)
 
 ## 画廊
 ![demo](./README_resource/demo1.png)
