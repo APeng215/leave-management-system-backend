@@ -16,7 +16,7 @@
 
 ## 如何使用
 
-请使用 Tomcat 部署
+配置好数据库地址，使用 Tomcat 部署此后端，然后配合[前端](https://github.com/APeng215/leave-management-system-frontend)使用
 
 ## 画廊
 ![demo](./README_resource/demo1.png)
